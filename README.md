@@ -1,2 +1,0 @@
-# nunnas
-Nunna repository 
